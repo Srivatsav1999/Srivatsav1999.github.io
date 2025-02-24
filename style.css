@@ -704,3 +704,18 @@ footer p {
 .toggle-btn:hover {
   color: #0056b3;
 }
+
+
+.project-header {
+  display: flex;
+  justify-content: space-between; /* Aligns items to left and right */
+  align-items: center; /* Keeps them vertically aligned */
+  width: 100%; /* Ensures full width */
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between; /* Aligns items to left and right */
+  align-items: center; /* Keeps them vertically aligned */
+  width: 100%; /* Ensures full width */
+}
