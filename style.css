@@ -713,9 +713,4 @@ footer p {
   width: 100%; /* Ensures full width */
 }
 
-.project-header {
-  display: flex;
-  justify-content: space-between; /* Aligns items to left and right */
-  align-items: center; /* Keeps them vertically aligned */
-  width: 100%; /* Ensures full width */
-}
+
